@@ -26,6 +26,7 @@ Simple React App used designed to store and edit notes using a Firebase backend
 
 * [React.js](https://reactjs.org/)
 * [Firebase](https://firebase.google.com/)
+* [Material UI](https://material-ui.com/)
 
 
 
@@ -92,4 +93,4 @@ Project Link: [https://github.com/clinton2111/evernote-react-clone](https://gith
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/clinton2111/
-[product-screenshot]: https://i.ibb.co/d5QvWZ5/evernoteclone-SS.png
+[product-screenshot]: /images/app_img.png
